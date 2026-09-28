@@ -2,7 +2,7 @@
 
 > **A focused editing environment for Apple users: cut, arrange, refine, and finish video projects on Mac and iPad with one consistent Final Cut Pro workflow.**
 
-![Final Cut Pro](https://avatars.mds.yandex.net/i?id=0c6bee0d258bc413291a6c5160741e18810627971da50c8f-12421933-images-thumbs&n=13)
+![Final Cut Pro](https://avatars.mds.yandex.net/i?id=9663d4afef2e4d2b3c56b857c987057f1dd346e4-4076180-images-thumbs&n=13)
 
 ---
 
